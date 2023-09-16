@@ -9,3 +9,5 @@ a telecom operator wants to learn how to predict customer churn
 ## taxi_order_prediction
 the company needs to predict the number of taxi orders for the next hour
 
+## car_price_prediction
+the company needs to predict the car price
